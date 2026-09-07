@@ -1,2 +1,2 @@
 run:
-py <this src file dir> <convertion dir>
+py <=this src file dir=> <=convertion dir=>
